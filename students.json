@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Rafi Ahmed",
+        "age": 21,
+        "email": "rafi@example.com",
+        "course": "CSE"
+    },
+    {
+        "name": "Mehedi Hasan",
+        "age": 25,
+        "email": "mehedihasan180580@gmail.com",
+        "course": "OOP",
+        "id": 2
+    },
+    {
+        "name": "hasan",
+        "age": 26,
+        "email": "hasan1234@gmail.com",
+        "course": "DBMS",
+        "id": 3
+    }
+]
